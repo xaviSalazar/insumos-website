@@ -9,7 +9,7 @@ function Copyright() {
     <React.Fragment>
       {'© '}
       <Link color="inherit" href="https://fersainsumos.com">
-      a reemplazar S.A.S 
+      FERSA S.A.S 
       </Link>{' '}
       {new Date().getFullYear()}
     </React.Fragment>
@@ -55,7 +55,7 @@ export default function AppFooter() {
               Quito
             </Typography>
             <Typography variant="h7" gutterBottom>
-             Dirección: A REEMPLAZAR
+             Dirección: Av. De los Libertadores Lucas Tipán y Río Toachi
             </Typography>
             {/* <Box component="ul" sx={{ m: 0, listStyle: 'none', p: 0 }}>
               <Box component="li" sx={{ py: 0.5 }}>

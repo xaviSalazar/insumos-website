@@ -26,7 +26,7 @@ function ProductSmokingHero() {
         Contactanos al !
       </Typography>
       <Typography variant="h5" sx={{ my: 3 }}>
-        (+593)A REEMPLAZAR | ventas@A REEMPLAZAR.com
+        (+593) 987447381 | ventas@fersainsumos.com
       </Typography>
       {/* <Box
         component="img"

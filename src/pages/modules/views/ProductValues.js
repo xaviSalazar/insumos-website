@@ -46,23 +46,8 @@ function ProductValues() {
               <Typography variant="h5">
                 
                 {
-                  'Proveer de repuestos industriales y cuchillas para las compañías de productos de bienes, servicios y la industria en general, involucrándose con:'
+                  'En FERSA S.A.S. somos una empresa dedicada a la comercialización y distribución de insumos industriales y de seguridad, que trabaja por brindar soluciones integrales para el beneficio de nuestros clientes y el desarrollo de la región; buscando satisfacer sus necesidades a través de la oferta de productos y servicios de la mejor calidad, contamos con Proveedores comprometidos y de gran trayectoria en el mercado, un equipo humano calificado y la infraestructura adecuada para garantizar un buen servicio para los clientes.'
                 }
-
-                  <ListItem>
-                        <ListItemIcon><CheckRoundedIcon/></ListItemIcon>
-                        <ListItemText><Typography variant="h5">{`Diseño`}</Typography></ListItemText>
-                  </ListItem>
-
-                  <ListItem>
-                        <ListItemIcon><CheckRoundedIcon/></ListItemIcon>
-                        <ListItemText><Typography variant="h5">{`Fabricación`}</Typography></ListItemText>
-                  </ListItem>
-
-                  <ListItem>
-                        <ListItemIcon><CheckRoundedIcon/></ListItemIcon>
-                        <ListItemText><Typography variant="h5">{`Desarrollo del sistema`}</Typography></ListItemText>
-                  </ListItem>
 
                 {
                   'Partes componentes de las mismas donde se utiliza procesos seguro, con calidad y responsabilidad ambiental esto con el fin de cumplir los requerimientos y satisfacer las necesidades demandadas. Trabajando con personal competente, consistente, honesto, responsable, comprometido para cumplir con los requerimientos del cliente.'
@@ -83,9 +68,67 @@ function ProductValues() {
                 VISIÓN
               </Typography>
               <Typography variant="h5">
-                {
-                  'Lograr reconocimiento en el mercado gracias a nuestra gestión de calidad, seguridad industrial, responsabilidad ambiental en todos sus trabajos. Buscar satisfacer las necesidades del cliente trabajando con el mejor capital humano y tecnológico para ofrecer siempre excelencia en calidad y servicio.'
-                }
+                
+                  <ListItem>
+                        <ListItemText>
+                          <Typography variant="h5">
+                          {'ORIENTACIÓN AL SERVICIO: Orientamos nuestras actividades al servicio, para el cual se enfocan todos los recursos en aras de satisfacer las necesidades de los clientes.'}
+                          </Typography>
+                        </ListItemText>
+                  </ListItem>
+
+                  <ListItem>
+                        <ListItemText>
+                          <Typography variant="h5">
+                          {'CALIDAD: Nos esmeramos por brindar productos y servicios de excelente calidad cumpliendo con los estándares internacionales lo que garantiza a los clientes seguridad y confianza'}
+                          </Typography>
+                        </ListItemText>
+                  </ListItem>
+
+                  <ListItem>
+                        <ListItemText>
+                          <Typography variant="h5">
+                          {'CALIDEZ: Ofrecemos un trato amable y cálido a todos nuestros clientes bajo las bases del respeto y la tolerancia'}
+                          </Typography>
+                        </ListItemText>
+                  </ListItem>
+
+                  <ListItem>
+                        <ListItemText>
+                          <Typography variant="h5">
+                          {'PROFESIONALISMO: Estamos capacitados y entrenados al servicio de nuestros clientes'}
+                          </Typography>
+                        </ListItemText>
+                  </ListItem>
+
+                  <ListItem>
+                        <ListItemText>
+                          <Typography variant="h5">
+                          {'TRABAJO EN EQUIPO: Orientamos nuestras actividades al trabajo en equipo'}
+                          </Typography>
+                        </ListItemText>
+                  </ListItem>
+
+                  <ListItem>
+                        <ListItemText>
+                          <Typography variant="h5">
+                          {'PUNTUALIDAD: Asistimos a nuestros compromisos con premura respetando el tiempo de nuestros clientes ya sean citas o el envío de productos'}
+                          </Typography>
+                        </ListItemText>
+                  </ListItem>
+
+                  <ListItem>
+                        <ListItemText>
+                          <Typography variant="h5">
+                          {'MEJORA CONTINUA: Orientamos nuestra organización al autocontrol de todas las actividades con el ánimo de mejorar permanentemente.'}
+                          </Typography>
+                        </ListItemText>
+                  </ListItem>
+
+                  {/* <ListItem>
+                        <ListItemIcon><CheckRoundedIcon/></ListItemIcon>
+                        <ListItemText><Typography variant="h5">{`Desarrollo del sistema`}</Typography></ListItemText>
+                  </ListItem> */}
               </Typography>
             </Box>
           </Grid>
