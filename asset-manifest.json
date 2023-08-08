@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/insumos-website/static/css/main.073c9b0a.css",
+    "main.js": "/insumos-website/static/js/main.389f3a22.js",
+    "index.html": "/insumos-website/index.html",
+    "main.073c9b0a.css.map": "/insumos-website/static/css/main.073c9b0a.css.map",
+    "main.389f3a22.js.map": "/insumos-website/static/js/main.389f3a22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.389f3a22.js"
+  ]
+}
