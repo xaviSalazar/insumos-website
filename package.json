@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "homepage": "https://fersainsumos.com",
+  "homepage": "https://xavisalazar.github.io/insumos-website",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
