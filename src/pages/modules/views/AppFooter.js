@@ -9,9 +9,9 @@ function Copyright() {
     <React.Fragment>
       {'© '}
       <Link color="inherit" href="https://fersainsumos.com">
-      FERSA S.A.S 
+      FERSA S.A.S  
       </Link>{' '}
-      {new Date().getFullYear()}
+      { new Date().getFullYear()}
     </React.Fragment>
   );
 }

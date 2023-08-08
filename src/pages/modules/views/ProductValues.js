@@ -43,15 +43,16 @@ function ProductValues() {
               <Typography variant="h6" sx={{ my: 5 }}>
                 MISIÓN 
               </Typography>
-              <Typography variant="h5">
-                
-                {
-                  'En FERSA S.A.S. somos una empresa dedicada a la comercialización y distribución de insumos industriales y de seguridad, que trabaja por brindar soluciones integrales para el beneficio de nuestros clientes y el desarrollo de la región; buscando satisfacer sus necesidades a través de la oferta de productos y servicios de la mejor calidad, contamos con Proveedores comprometidos y de gran trayectoria en el mercado, un equipo humano calificado y la infraestructura adecuada para garantizar un buen servicio para los clientes.'
-                }
+              <Typography variant="h5" align="justify">
+                  En FERSA S.A.S. somos una empresa dedicada a la comercialización y 
+                  distribución de insumos industriales y de seguridad, que trabaja 
+                  por brindar soluciones integrales para el beneficio de nuestros 
+                  clientes y el desarrollo de la región; buscando satisfacer sus 
+                  necesidades a través de la oferta de productos y servicios de la
+                   mejor calidad, contamos con Proveedores comprometidos y de gran 
+                   trayectoria en el mercado, un equipo humano calificado y la 
+                   infraestructura adecuada para garantizar un buen servicio para los clientes.
 
-                {
-                  'Partes componentes de las mismas donde se utiliza procesos seguro, con calidad y responsabilidad ambiental esto con el fin de cumplir los requerimientos y satisfacer las necesidades demandadas. Trabajando con personal competente, consistente, honesto, responsable, comprometido para cumplir con los requerimientos del cliente.'
-                }
               </Typography>
             </Box>
           </Grid>
@@ -71,56 +72,83 @@ function ProductValues() {
                 
                   <ListItem>
                         <ListItemText>
+                          <Typography variant="h6">
+                          ORIENTACIÓN AL SERVICIO:
+                          </Typography>
                           <Typography variant="h5">
-                          {'ORIENTACIÓN AL SERVICIO: Orientamos nuestras actividades al servicio, para el cual se enfocan todos los recursos en aras de satisfacer las necesidades de los clientes.'}
+                          Orientamos nuestras actividades al servicio, 
+                          para el cual se enfocan todos los recursos en aras de satisfacer las 
+                          necesidades de los clientes.
+                          </Typography>
+                        </ListItemText>
+                  </ListItem>
+
+                  <ListItem>
+                        < ListItemText>
+                          <Typography variant="h6">
+                          CALIDAD: 
+                          </Typography>
+                          <Typography variant="h5">
+                          Nos esmeramos por brindar productos y servicios de excelente 
+                          calidad cumpliendo con los estándares internacionales lo que garantiza 
+                          a los clientes seguridad y confianza
                           </Typography>
                         </ListItemText>
                   </ListItem>
 
                   <ListItem>
                         <ListItemText>
+                         <Typography variant="h6">
+                         CALIDEZ: 
+                          </Typography>
                           <Typography variant="h5">
-                          {'CALIDAD: Nos esmeramos por brindar productos y servicios de excelente calidad cumpliendo con los estándares internacionales lo que garantiza a los clientes seguridad y confianza'}
+                          Ofrecemos un trato amable y cálido a todos nuestros clientes 
+                          bajo las bases del respeto y la tolerancia
                           </Typography>
                         </ListItemText>
                   </ListItem>
 
                   <ListItem>
                         <ListItemText>
+                          <Typography variant="h6">
+                          PROFESIONALISMO: 
+                          </Typography>
                           <Typography variant="h5">
-                          {'CALIDEZ: Ofrecemos un trato amable y cálido a todos nuestros clientes bajo las bases del respeto y la tolerancia'}
+                           Estamos capacitados y entrenados al servicio de nuestros clientes
                           </Typography>
                         </ListItemText>
                   </ListItem>
 
                   <ListItem>
                         <ListItemText>
+                        <Typography variant="h6">
+                          TRABAJO EN EQUIPO:
+                          </Typography>
                           <Typography variant="h5">
-                          {'PROFESIONALISMO: Estamos capacitados y entrenados al servicio de nuestros clientes'}
+                          Orientamos nuestras actividades al trabajo en equipo
                           </Typography>
                         </ListItemText>
                   </ListItem>
 
                   <ListItem>
                         <ListItemText>
+                        <Typography variant="h6">
+                          PUNTUALIDAD: 
+                          </Typography>
                           <Typography variant="h5">
-                          {'TRABAJO EN EQUIPO: Orientamos nuestras actividades al trabajo en equipo'}
+                          Asistimos a nuestros compromisos con premura respetando el tiempo de nuestros clientes ya sean citas o el envío de productos
                           </Typography>
                         </ListItemText>
                   </ListItem>
 
                   <ListItem>
-                        <ListItemText>
-                          <Typography variant="h5">
-                          {'PUNTUALIDAD: Asistimos a nuestros compromisos con premura respetando el tiempo de nuestros clientes ya sean citas o el envío de productos'}
+                         <ListItemText>
+                          <Typography variant="h6">
+                          MEJORA CONTINUA: 
                           </Typography>
-                        </ListItemText>
-                  </ListItem>
-
-                  <ListItem>
-                        <ListItemText>
+                        
                           <Typography variant="h5">
-                          {'MEJORA CONTINUA: Orientamos nuestra organización al autocontrol de todas las actividades con el ánimo de mejorar permanentemente.'}
+                          Orientamos nuestra organización al autocontrol de todas las actividades con el ánimo de mejorar permanentemente.
                           </Typography>
                         </ListItemText>
                   </ListItem>
