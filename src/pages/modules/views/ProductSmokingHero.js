@@ -20,7 +20,11 @@ function ProductSmokingHero() {
       >
         <Typography variant="h4" component="span">
         ¿Necesitas más información acerca de nosotros?
+        <a href="https://raw.githubusercontent.com/xaviSalazar/insumos-website/main/public/FERSA_CATALOGO.pdf" download>
+          descargar catalogo
+        </a>
         </Typography>
+        
       </Button>
       <Typography variant="h4" sx={{ my: 3 }}>
         Contactanos al !
