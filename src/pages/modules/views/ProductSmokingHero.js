@@ -20,8 +20,15 @@ function ProductSmokingHero() {
       >
         <Typography variant="h4" component="span">
         ¿Necesitas más información acerca de nosotros?
+        <br/>
+        <br/>
         <a href="https://raw.githubusercontent.com/xaviSalazar/insumos-website/main/public/FERSA_CATALOGO.pdf" download>
-          descargar catalogo
+          descargar catalogo_1
+        </a>
+        <br/>
+        <br/>
+        <a href="https://github.com/xaviSalazar/insumos-website/raw/main/public/FERSA_FERRETERIA.pdf" download>
+          descargar catalogo_2
         </a>
         </Typography>
         
