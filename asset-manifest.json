@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/insumos-website/static/css/main.073c9b0a.css",
-    "main.js": "/insumos-website/static/js/main.375473bd.js",
-    "index.html": "/insumos-website/index.html",
-    "main.073c9b0a.css.map": "/insumos-website/static/css/main.073c9b0a.css.map",
-    "main.375473bd.js.map": "/insumos-website/static/js/main.375473bd.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.375473bd.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.375473bd.js.map": "/static/js/main.375473bd.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
