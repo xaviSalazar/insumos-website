@@ -20,7 +20,7 @@ function Index() {
       <ProductSmokingHero />
       <WhatsAppWidget
             message={`Hola! 👋🏼 \n\nEn que podemos ayudarle?`}
-            phoneNumber="33766445477"
+            phoneNumber="593987447381"
         />
       </React.Fragment>  
   );
