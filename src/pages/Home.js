@@ -5,8 +5,6 @@ import ProductHero from './modules/views/ProductHero';
 import ProductValues from './modules/views/ProductValues';
 import withRoot from './modules/withRoot';
 
-import { WhatsAppWidget } from 'react-whatsapp-widget';
-import 'react-whatsapp-widget/dist/index.css';
 
 function Index() {
 
@@ -18,10 +16,6 @@ function Index() {
       {/* <ProductHowItWorks /> */}
       {/* <ProductCTA /> */}
       <ProductSmokingHero />
-      <WhatsAppWidget
-            message={`Hola! 👋🏼 \n\nEn que podemos ayudarle?`}
-            phoneNumber="593987447381"
-        />
       </React.Fragment>  
   );
   
